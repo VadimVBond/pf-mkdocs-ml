@@ -52,13 +52,13 @@ extra:
       link: https://github.com/example
   alternate:
     - name: English
-      link: /
+      link: /pf-mkdocs-ml/
       lang: en
     - name: Українська
-      link: /uk/
+      link: /pf-mkdocs-ml/uk/
       lang: uk
     - name: Русский
-      link: /ru/
+      link: /pf-mkdocs-ml/ru/
       lang: ru
 
 copyright: |
