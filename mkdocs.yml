@@ -1,5 +1,5 @@
 site_name: MkDocs Multilingual Demo
-site_url: https://vadimvbond.github.io/
+site_url: https://vadimvbond.github.io/pf-mkdocs-ml/
 
 theme:
   name: material
